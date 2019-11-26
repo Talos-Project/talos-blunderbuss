@@ -1,0 +1,28 @@
+{
+  "name": "talos-blunderbuss",
+  "version": "0.1.0",
+  "description": "Blunderbuss plugin for Talos",
+  "main": "./dist/Blunderbuss.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspartame21/talos-blunderbuss.git"
+  },
+  "keywords": [
+    "plugin",
+    "blunderbuss",
+    "talos"
+  ],
+  "author": "Nijat Mahmudov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aspartame21/talos-blunderbuss/issues"
+  },
+  "homepage": "https://github.com/aspartame21/talos-blunderbuss#readme",
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "tsc": "^1.20150623.0"
+  }
+}
